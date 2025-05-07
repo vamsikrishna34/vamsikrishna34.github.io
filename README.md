@@ -1,0 +1,1 @@
+This folder is GitHub Pages–ready. Upload contents directly into your GitHub repo root.
