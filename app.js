@@ -1,1 +1,0 @@
-console.log('React placeholder script loaded');
